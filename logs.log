@@ -1,0 +1,5 @@
+2024-07-07 20:40:21,552:WARNING:c:\Users\T14\AppData\Local\Programs\Python\Python312\Lib\site-packages\tpot\builtins\__init__.py:36: UserWarning:
+
+Warning: optional dependency `torch` is not available. - skipping import of NN models.
+
+
